@@ -4,3 +4,4 @@ notes/
 .idea/
 *.iml
 .vscode/
+.env.example
