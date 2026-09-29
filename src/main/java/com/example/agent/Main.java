@@ -18,7 +18,7 @@ public final class Main {
         List<Content> messages = agent.newConversation(); // memory lives here across turns
         System.out.println("Agent ready. Type 'quit' to exit.");
         System.out.println(
-                "Try: Should I visit Manali this weekend? 2 people, budget 6000 total. Save a summary.\n");
+                "Try: Should I visit Manali this weekend? 2 people, budget 32000 total. Save a summary.\n");
 
         try (Scanner in = new Scanner(System.in)) {
             while (true) {
